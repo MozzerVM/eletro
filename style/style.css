@@ -1,0 +1,60 @@
+body {
+    background-color: #F3F6F9;
+    
+}
+
+#navbar {
+    width: 100%;
+    display: flex;
+}
+
+.titulo {
+    display: flex
+}
+
+.nav {
+    margin-left: 80%;
+}
+
+#content {
+    width: 80%;
+    display: block;
+    margin-left: 28%;
+}
+
+#cat {
+
+}
+
+
+#produtos {
+    width: 500px;
+    display: block;
+
+}
+
+.products {
+    color: #16315A;
+    padding: 3px;
+    border-radius: 5px;
+    display: block;
+}
+
+#pLinha {
+    gap: 5%;
+    display: flex;
+}
+#sLinha {
+    gap: 5%;
+    display: flex;
+}
+
+
+
+.types a {
+    text-decoration: none;
+    color: black;
+    border: 1px solid #16315A;
+    padding: 3px;
+    border-radius: 5px;
+}
